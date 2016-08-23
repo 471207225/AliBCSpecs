@@ -15,11 +15,7 @@
 "source":{
 "http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/NBSDK/1.0.0/NBSDK.zip"
 },
-"source_files":["source/**/*.{
-h,
-m,
-pch
-}"],
+"source_files":["source/**/*.{h,m,pch}"],
 "summary":"阿里百川电商云.",
 "version":"1.0.0"
 }

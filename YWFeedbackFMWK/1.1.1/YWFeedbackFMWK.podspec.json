@@ -2,9 +2,6 @@
 "authors":{
 "佛空":"fujun.fj@alibaba-inc.com"
 },
-"dependencies":{
-"UTMini":"4.3.7.1-noIDFA"
-},
 "description":"百川反馈基础版SDK",
 "frameworks":["AVFoundation",
 "AudioToolbox",
