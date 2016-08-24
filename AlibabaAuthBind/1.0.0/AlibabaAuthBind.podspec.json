@@ -5,7 +5,7 @@
 "默轩":"moxuan.hj@alibaba-inc.com"
 },
 "dependencies":{
-"ALibabaAuthSDK":[]
+"AlibabaAuthSDK":[]
 },
 "description":"AlibabaAuthBind Framework",
 "homepage":"https://www.taobao.com/",
