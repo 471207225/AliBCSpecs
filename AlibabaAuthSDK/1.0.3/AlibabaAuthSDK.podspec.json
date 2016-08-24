@@ -26,7 +26,6 @@
 "source":{
 "http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibabaAuthSDK/1.0.3/AlibabaAuthSDK.zip"
 },
-"source_files":"AlibabaAuthSDK.framework/Headers/*",
 "summary":"AlibabaAuthSDK: 会员认证SDK",
 "vendored_frameworks":["AlibabaAuthSDK.framework",
 "AlibabaAuthExt.framework"],
