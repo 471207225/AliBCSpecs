@@ -10,8 +10,7 @@
   ],
   "description": "监控埋点SDK                   \n commit:2b5f26db91d4d443941e0a9e693bec0dd45037c2",
   "source": {
-    "http": "
-http%3A%2F%2Fbaichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com%2FbaichuanRepo%2Fios%2FBCUserTrack%2F5.1.0.8%2FUTMini.framework.zip"
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/BCUserTrack/5.1.0.8/UTMini.framework.zip"
   },
   "version": "5.1.0.8",
   "platforms": {
