@@ -6,7 +6,7 @@
 "requires_arc":true,
 "resources":["AlibabaAuthSDK.framework/AlibabaAuthSDK.bundle"],
 "source":{
-"http":"https://github.com/471207225/AliBCSpecs/blob/master/AliAuthSDK/1.1.0.41-bc/AliAuthSDK.zip"
+"http":"https://raw.githubusercontent.com/471207225/AliBCSpecs/master/AliAuthSDK/1.1.0.41-bc/AliAuthSDK.zip"
 },
 "dependencies":{
 
